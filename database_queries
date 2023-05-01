@@ -1,0 +1,18 @@
+SELECT *
+FROM [Empoloyee_Database].[dbo].[employee$] e
+INNER JOIN [SQL_Employee_Data].[dbo].[salaries$] s
+ON e.employeeID = s.employeeID
+
+-- Show all employee first and last name as well as their ID and the department they belongg in
+SELECT e.employeeID, firstname, lastname, d.employeedepartment
+FROM [Empoloyee_Database].[dbo].[employee$] e
+	INNER JOIN [Empoloyee_Database].[dbo].[department$] d
+	ON e.departmentID = d.departmentID
+
+-- Show the count of employees in each department
+SELECT d.employeedepartment, count(e.employeeID) AS num_employee_dpt
+FROM [Empoloyee_Database].[dbo].[employee$] e
+INNER JOIN [Empoloyee_Database].[dbo].[department$] d
+ON e.departmentID = d.departmentID
+GROUP BY
+	d.employeedepartment
