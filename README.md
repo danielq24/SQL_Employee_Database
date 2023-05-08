@@ -6,11 +6,13 @@ The ER Diagram shows the relationships among the tables and entities used for co
 
 ![Screenshot 2023-05-02 102946](https://user-images.githubusercontent.com/123119481/235740535-2206ff70-b3ec-417b-9ec8-f6e391267f6a.png)
 
+
 ### SQL Queries
 The SQL queries in the SQL_HR_Dashboard.sql executes the joins among the tables to combined into one table. It is then then exported into an Excel file which is used to be uploaded into the Power BI software to visualization. In addition, the remaining queries are used to display the following: 
 - Show all employee first and last name as well as their ID and the department they belong in
 - Show the count of employees in each department
 - Show total salary per department
+
 
 
 ### Power BI HR Dashboard
