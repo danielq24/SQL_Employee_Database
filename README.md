@@ -9,7 +9,7 @@ Purpose: To demonstrate SQL and Power BI skills through a mini project visualizi
 ### ER Diagram 
 The ER Diagram shows the relationships among the tables and entities used for connection and joining the tables in SQL. The raw data is represented in the Employee_data.xlsx file. 
 
-![Screenshot 2023-05-02 102946](https://user-images.githubusercontent.com/123119481/235740535-2206ff70-b3ec-417b-9ec8-f6e391267f6a.png)
+![image](https://github.com/danielq24/SQL_Employee_Database/assets/123119481/a4f56d6d-7b46-43e7-bea5-e0c0dfffb836)
 
 
 ### SQL Queries
