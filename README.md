@@ -2,7 +2,7 @@
 ### Overview
 Context: A new SaaS start-up company is interested in expanding its team. Between January 2021 and April 2021, the organization hired employees for roles across many departments.  With diversity as one of the core values of the company, the team has decided to work with a vendor to develop an employee HR dashboard to visualize their employee data. 
 
-Note: Please note that the use of names in my database is purely for illustrative purposes and does not imply any endorsement or affiliation with them. The names are stictly used for examples. If you have any concerns or questions regarding this matter, please feel free to contact me.
+Note: Please note that the use of names in my database is purely for illustrative purposes and does not imply any endorsement or affiliation with them. If you have any concerns or questions regarding this matter, please feel free to contact me.
 
 Purpose: To demonstrate SQL and Power BI skills through a mini project visualizing employee data. 
 
