@@ -23,3 +23,6 @@ The SQL queries in the SQL_HR_Dashboard.sql executes the joins among the tables 
 ### Power BI HR Dashboard
 ![image](https://user-images.githubusercontent.com/123119481/236906933-06a91662-5e80-44b4-8071-1b95c1171fe2.png)
 https://app.powerbi.com/reportEmbed?reportId=ad3e93fe-3411-4952-8b07-64305cd63d65&autoAuth=true&ctid=f6b6dd5b-f02f-441a-99a0-162ac5060bd2
+
+Evaluation:
+After developing the Power BI dashboard, it is important to validate the data to ensure its accuracy and completeness with comparing the SQL queries to the results of the dashboard. In addition, it is important to communicate the insights with the stakeholders and present ideas and recommendations based on their requirements. For example, if the company is interested in understanding how much of their finances are going towards salaries, they can use this dashboard to compare it across different departments. The stakeholder may also provide further recommendations and feedback to improve the dashboard and its functionality. 
